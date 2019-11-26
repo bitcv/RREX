@@ -1,0 +1,33 @@
+.tv-side-toolbar{
+  border-right: none;
+}
+/*隐藏分割线*/
+.pane-separator{
+  background: #25262b!important;
+}
+/*隐藏timeframe-toolbar的左方按钮*/
+.date-range-list{
+  display: none;
+}
+.tv-side-toolbar .tools-group .button.selected .side{
+  display: none;
+}
+.drawing-favorites-toolbar .tools-group .button.active, .feature-no-touch .drawing-favorites-toolbar .tools-group .button:active, .feature-no-touch .properties-toolbar .tools-group .button:active, .feature-no-touch .tv-side-toolbar .tools-group .button:active .side, .feature-no-touch .tv-side-toolbar .tools-group .button:not(.subgroup):active, .feature-touch .drawing-favorites-toolbar .tools-group .button:active, .feature-touch .properties-toolbar .tools-group .button:active, .feature-touch .tv-side-toolbar .tools-group .button:active .side, .feature-touch .tv-side-toolbar .tools-group .button:not(.subgroup):active, .properties-toolbar .tools-group .button.active, .tv-side-toolbar .tools-group .button.active .side, .tv-side-toolbar .tools-group .button.selected .main, .tv-side-toolbar .tools-group .button:not(.subgroup).active, .tv-side-toolbar .tools-group .button:not(.subgroup).selected{
+  background-color:#25262b;
+}
+.feature-no-touch .tv-side-toolbar .tools-group .button:hover,.tv-side-toolbar .tools-group .button.selected{
+  border-color: transparent!important;
+  background-color: transparent!important;
+}
+.tv-close-panel{
+  display: none;
+}
+.chart-controls-bar-buttons a.active{
+  color: #fff!important;
+}
+.tv-side-toolbar .tools-group:not(:first-child):not(.no-delimiter):before{
+  background: #2f3241;
+}
+.pane-separator .handle{
+  display: none;
+}
