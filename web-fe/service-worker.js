@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c19347233a988086b88d2a94bd19bcfe.js"
+  "/precache-manifest.ebe3a19fbccbf0933001ecf1af35ecd3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "rrex-web"});

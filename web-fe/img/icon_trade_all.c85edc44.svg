@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>买卖盘</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="限价交易" transform="translate(-1534.000000, -169.000000)">
+            <g id="买卖盘" transform="translate(1534.000000, 169.000000)">
+                <rect id="矩形" fill="#FF5534" x="4" y="0" width="11" height="2"></rect>
+                <rect id="矩形备份-5" fill="#11B873" x="4" y="12" width="11" height="2"></rect>
+                <rect id="矩形备份" fill="#FF5534" x="0" y="4" width="15" height="2"></rect>
+                <rect id="矩形备份-3" fill="#11B873" x="0" y="8" width="15" height="2"></rect>
+                <rect id="矩形备份-2" fill="#FF5534" transform="translate(1.000000, 3.000000) rotate(-270.000000) translate(-1.000000, -3.000000) " x="-2" y="2" width="6" height="2"></rect>
+                <rect id="矩形备份-4" fill="#11B873" transform="translate(1.000000, 11.000000) rotate(-270.000000) translate(-1.000000, -11.000000) " x="-2" y="10" width="6" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

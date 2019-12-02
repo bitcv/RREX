@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>click-合并</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="限价交易" transform="translate(-20.000000, -101.000000)" fill="#8795B0">
+            <g id="click-合并" transform="translate(20.000000, 101.000000)">
+                <polygon id="矩形" points="-1.25050664e-12 0 17 0 17 2 -1.25050664e-12 2"></polygon>
+                <polygon id="矩形备份-5" points="1.1369794e-12 5 11 5 11 7 1.1369794e-12 7"></polygon>
+                <polygon id="矩形备份-6" points="1.1369794e-12 10 11 10 11 12 1.1369794e-12 12"></polygon>
+                <polygon id="矩形备份-7" points="-1.25050664e-12 15 17 15 17 17 -1.25050664e-12 17"></polygon>
+                <polygon id="三角形" transform="translate(15.000000, 8.500000) rotate(-90.000000) translate(-15.000000, -8.500000) " points="15 7 18 10 12 10"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
